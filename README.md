@@ -1,12 +1,7 @@
-# lista-de-tarefas
-Meu primeiro projeto em Python.
-Desenvolvido para praticar listas, condições, entradas de usuário e estruturas de repetição.
+# Lista de Tarefas
 
-Tecnologias
-Python
+Lista de tarefas simples feita em Python para praticar programação.
 
-O que o projeto faz
-
-Adiciona tarefas
-Lista tarefas
-Remove tarefas
+## Tecnologias
+- Python
+- 
